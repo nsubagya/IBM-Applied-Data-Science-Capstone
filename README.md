@@ -1,4 +1,4 @@
-# IBM-Applied-Data-Science-Capstone project
+# Predicting SpaceX Falcon 9 First Stage Landings: A Data Science Journey
 This repository contains my work for the IBM Applied Data Science Capstone project. Throughout this project, I have applied the knowledge and skills acquired during the IBM Data Science Professional Certificate program to solve a real-world problem using data analysis and machine learning.
 
 ## Project Overview
